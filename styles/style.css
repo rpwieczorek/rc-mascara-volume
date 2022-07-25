@@ -457,7 +457,7 @@
 }
 
 #es-loreal.es-loreal .es-slider__wrapper {
-  background: url("https://www.ros.net.pl/Portals/0/rich-content/loreal/0000030160903/assets/slider.png") no-repeat top left;
+  background: url("../assets/slider.png") no-repeat top left;
   padding: 56px 16px 0 16px;
 }
 
@@ -954,6 +954,10 @@
 #es-loreal.es-loreal .es-cross .swiper-pagination-bullet-active {
   opacity: 1;
   background: #1d1d1b;
+}
+
+#es-loreal.es-loreal .es-video  {
+  text-align: center;
 }
 
 @media screen and (min-width: 768px) {
